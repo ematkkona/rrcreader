@@ -1,0 +1,2 @@
+[{"associateddevicename":"Demo Device","assosiatedevsnprefix":"1000.","maxcycles":200,"mincapacityfactor":0.75,"warncycles":185,"warncapacityfactor":0.8,"imagefiledevice":"demodev.png","imagefilebattery":"demobat.png"},
+{"associateddevicename":"Sad G2-type","assosiatedevsnprefix":"1234.","maxcycles":200,"mincapacityfactor":0.75,"warncycles":185,"warncapacityfactor":0.8,"imagefiledevice":"2demodev.png","imagefilebattery":"2demobat.png"}]
